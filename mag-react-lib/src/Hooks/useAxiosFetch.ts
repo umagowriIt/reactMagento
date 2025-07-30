@@ -14,10 +14,13 @@ export function useAxiosFetch<T = unknown>(url: string) {
     axios
       .get<T>(url)
       .then((response: AxiosResponse<T>) => {
-        if (isMounted) {
+        setTimeout (() => {
+          if (isMounted) {
           setData(response.data);
           setLoading(false);
         }
+        }, 3000);
+        
       })
       .catch((err) => {
         if (isMounted) {
