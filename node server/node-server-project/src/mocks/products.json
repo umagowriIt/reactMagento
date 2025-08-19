@@ -1,0 +1,1411 @@
+{
+    "items": [
+        {
+            "id": 45,
+            "sku": "24-WG080",
+            "name": "Sprite Yoga Companion Kit",
+            "attribute_set_id": 11,
+            "price": 0,
+            "status": 1,
+            "visibility": 4,
+            "type_id": "bundle",
+            "created_at": "2025-07-31 02:24:01",
+            "updated_at": "2025-07-31 02:24:01",
+            "weight": 0,
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [
+                    {
+                        "position": 0,
+                        "category_id": "3"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "5"
+                    }
+                ],
+                "bundle_product_options": [
+                    {
+                        "option_id": 1,
+                        "title": "Sprite Stasis Ball",
+                        "required": true,
+                        "type": "radio",
+                        "position": 1,
+                        "sku": "24-WG080",
+                        "product_links": [
+                            {
+                                "id": "1",
+                                "sku": "24-WG081-blue",
+                                "option_id": 1,
+                                "qty": 1,
+                                "position": 1,
+                                "is_default": true,
+                                "price": 23,
+                                "price_type": null,
+                                "can_change_quantity": 1
+                            },
+                            {
+                                "id": "2",
+                                "sku": "24-WG082-blue",
+                                "option_id": 1,
+                                "qty": 1,
+                                "position": 2,
+                                "is_default": false,
+                                "price": 27,
+                                "price_type": null,
+                                "can_change_quantity": 1
+                            },
+                            {
+                                "id": "3",
+                                "sku": "24-WG083-blue",
+                                "option_id": 1,
+                                "qty": 1,
+                                "position": 3,
+                                "is_default": false,
+                                "price": 32,
+                                "price_type": null,
+                                "can_change_quantity": 1
+                            }
+                        ]
+                    },
+                    {
+                        "option_id": 2,
+                        "title": "Sprite Foam Yoga Brick",
+                        "required": true,
+                        "type": "radio",
+                        "position": 2,
+                        "sku": "24-WG080",
+                        "product_links": [
+                            {
+                                "id": "4",
+                                "sku": "24-WG084",
+                                "option_id": 2,
+                                "qty": 1,
+                                "position": 1,
+                                "is_default": true,
+                                "price": 5,
+                                "price_type": null,
+                                "can_change_quantity": 1
+                            }
+                        ]
+                    },
+                    {
+                        "option_id": 3,
+                        "title": "Sprite Yoga Strap",
+                        "required": true,
+                        "type": "radio",
+                        "position": 3,
+                        "sku": "24-WG080",
+                        "product_links": [
+                            {
+                                "id": "5",
+                                "sku": "24-WG085",
+                                "option_id": 3,
+                                "qty": 1,
+                                "position": 1,
+                                "is_default": true,
+                                "price": 14,
+                                "price_type": null,
+                                "can_change_quantity": 1
+                            },
+                            {
+                                "id": "6",
+                                "sku": "24-WG086",
+                                "option_id": 3,
+                                "qty": 1,
+                                "position": 2,
+                                "is_default": false,
+                                "price": 17,
+                                "price_type": null,
+                                "can_change_quantity": 1
+                            },
+                            {
+                                "id": "7",
+                                "sku": "24-WG087",
+                                "option_id": 3,
+                                "qty": 1,
+                                "position": 3,
+                                "is_default": false,
+                                "price": 21,
+                                "price_type": null,
+                                "can_change_quantity": 1
+                            }
+                        ]
+                    },
+                    {
+                        "option_id": 4,
+                        "title": "Sprite Foam Roller",
+                        "required": true,
+                        "type": "radio",
+                        "position": 4,
+                        "sku": "24-WG080",
+                        "product_links": [
+                            {
+                                "id": "8",
+                                "sku": "24-WG088",
+                                "option_id": 4,
+                                "qty": 1,
+                                "position": 1,
+                                "is_default": true,
+                                "price": 19,
+                                "price_type": null,
+                                "can_change_quantity": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            "product_links": [],
+            "options": [],
+            "media_gallery_entries": [
+                {
+                    "id": 51,
+                    "media_type": "image",
+                    "label": "Image",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail"
+                    ],
+                    "file": "/l/u/luma-yoga-kit-2.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "/l/u/luma-yoga-kit-2.jpg"
+                },
+                {
+                    "attribute_code": "shipment_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/l/u/luma-yoga-kit-2.jpg"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/l/u/luma-yoga-kit-2.jpg"
+                },
+                {
+                    "attribute_code": "options_container",
+                    "value": "container2"
+                },
+                {
+                    "attribute_code": "msrp_display_actual_price_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "sprite-yoga-companion-kit"
+                },
+                {
+                    "attribute_code": "price_view",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "sku_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "price_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "tax_class_id",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "weight_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "3",
+                        "5"
+                    ]
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "<p>A well-rounded yoga workout takes more than a mat. The Sprite Yoga Companion Kit helps stock your studio with the basics you need for a full-range workout. The kit is composed of four best-selling Luma Sprite accessories in one easy bundle: statis ball, foam block, yoga strap, and foam roller. Choose sizes and colors and leave the rest to us. The kit includes:</p>\n<ul>\n<li> Sprite Statis Ball\n<li> Sprite Foam Yoga Brick\n<li> Sprite Yoga Strap\n<li> Sprite Foam Roller\n</ul>"
+                },
+                {
+                    "attribute_code": "activity",
+                    "value": "8,11"
+                },
+                {
+                    "attribute_code": "gender",
+                    "value": "80,81,84"
+                },
+                {
+                    "attribute_code": "category_gear",
+                    "value": "87"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "sku": "24-WG085_Group",
+            "name": "Set of Sprite Yoga Straps",
+            "attribute_set_id": 11,
+            "status": 1,
+            "visibility": 4,
+            "type_id": "grouped",
+            "created_at": "2025-07-31 02:24:01",
+            "updated_at": "2025-07-31 02:24:01",
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [
+                    {
+                        "position": 0,
+                        "category_id": "3"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "5"
+                    }
+                ]
+            },
+            "product_links": [
+                {
+                    "sku": "24-WG085_Group",
+                    "link_type": "associated",
+                    "linked_product_sku": "24-WG085",
+                    "linked_product_type": "simple",
+                    "position": 0,
+                    "extension_attributes": {
+                        "qty": 0
+                    }
+                },
+                {
+                    "sku": "24-WG085_Group",
+                    "link_type": "associated",
+                    "linked_product_sku": "24-WG086",
+                    "linked_product_type": "simple",
+                    "position": 1,
+                    "extension_attributes": {
+                        "qty": 0
+                    }
+                },
+                {
+                    "sku": "24-WG085_Group",
+                    "link_type": "associated",
+                    "linked_product_sku": "24-WG087",
+                    "linked_product_type": "simple",
+                    "position": 2,
+                    "extension_attributes": {
+                        "qty": 0
+                    }
+                }
+            ],
+            "options": [],
+            "media_gallery_entries": [
+                {
+                    "id": 52,
+                    "media_type": "image",
+                    "label": "Image",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail"
+                    ],
+                    "file": "/l/u/luma-yoga-strap-set.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "/l/u/luma-yoga-strap-set.jpg"
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/l/u/luma-yoga-strap-set.jpg"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/l/u/luma-yoga-strap-set.jpg"
+                },
+                {
+                    "attribute_code": "options_container",
+                    "value": "container2"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "set-of-sprite-yoga-straps"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "3",
+                        "5"
+                    ]
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "<p>Great set of Sprite Yoga Straps for every stretch and hold you need. There are three straps in this set: 6', 8' and 10'.</p>\n<ul>\n<li> 100% soft and durable cotton.\n<li> Plastic cinch buckle is easy to use.\n<li> Choice of three natural colors made from phthalate and heavy metal free dyes.\n</ul>"
+                },
+                {
+                    "attribute_code": "activity",
+                    "value": "8"
+                },
+                {
+                    "attribute_code": "material",
+                    "value": "32,44"
+                },
+                {
+                    "attribute_code": "gender",
+                    "value": "80,81,84"
+                },
+                {
+                    "attribute_code": "category_gear",
+                    "value": "87"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "sku": "24-WG01",
+            "name": "Bolo Sport Watch",
+            "attribute_set_id": 11,
+            "price": 49,
+            "status": 1,
+            "visibility": 4,
+            "type_id": "simple",
+            "created_at": "2025-07-31 02:24:00",
+            "updated_at": "2025-07-31 02:24:00",
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [
+                    {
+                        "position": 0,
+                        "category_id": "3"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "6"
+                    }
+                ]
+            },
+            "product_links": [],
+            "options": [],
+            "media_gallery_entries": [
+                {
+                    "id": 47,
+                    "media_type": "image",
+                    "label": "Image",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail"
+                    ],
+                    "file": "/w/g/wg01-bk-0.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "/w/g/wg01-bk-0.jpg"
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/w/g/wg01-bk-0.jpg"
+                },
+                {
+                    "attribute_code": "special_price",
+                    "value": "49.000000"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/w/g/wg01-bk-0.jpg"
+                },
+                {
+                    "attribute_code": "special_from_date",
+                    "value": "2025-07-30 00:00:00"
+                },
+                {
+                    "attribute_code": "options_container",
+                    "value": "container2"
+                },
+                {
+                    "attribute_code": "msrp_display_actual_price_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "bolo-sport-watch"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "tax_class_id",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "3",
+                        "6"
+                    ]
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "<p>The Bolo Sport Watch is sleek, sporty and sized just right to fit your smaller wrist. Easy to read and set up, it features a large digital face and button-activated alarm and stopwatch. The soft-touch resin band promises no-pinch comfort, while the water-resistant design lets you take your workout to the lap pool.</p>\n<ul>\n<li>Displays time, day and date.</li>\n<li>Two-tone design.</li>\n<li>12/24 hour formats.</li>\n<li>Nickel-free buckle on band.</li>\n<li>Battery included.</li>\n</ul>"
+                },
+                {
+                    "attribute_code": "activity",
+                    "value": "9,17"
+                },
+                {
+                    "attribute_code": "material",
+                    "value": "48"
+                },
+                {
+                    "attribute_code": "gender",
+                    "value": "81"
+                },
+                {
+                    "attribute_code": "category_gear",
+                    "value": "86,87,90"
+                },
+                {
+                    "attribute_code": "sale",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "sku": "24-WG02",
+            "name": "Didi Sport Watch",
+            "attribute_set_id": 11,
+            "price": 92,
+            "status": 1,
+            "visibility": 4,
+            "type_id": "simple",
+            "created_at": "2025-07-31 02:24:00",
+            "updated_at": "2025-07-31 02:24:00",
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [
+                    {
+                        "position": 0,
+                        "category_id": "3"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "6"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "7"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "8"
+                    }
+                ]
+            },
+            "product_links": [],
+            "options": [],
+            "media_gallery_entries": [
+                {
+                    "id": 50,
+                    "media_type": "image",
+                    "label": "Image",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail"
+                    ],
+                    "file": "/w/g/wg02-bk-0.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "/w/g/wg02-bk-0.jpg"
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/w/g/wg02-bk-0.jpg"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/w/g/wg02-bk-0.jpg"
+                },
+                {
+                    "attribute_code": "options_container",
+                    "value": "container2"
+                },
+                {
+                    "attribute_code": "msrp_display_actual_price_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "didi-sport-watch"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "tax_class_id",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "3",
+                        "6",
+                        "7",
+                        "8"
+                    ]
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "<p>The Didi Sport Watch helps you keep your workout plan down to the second. The vertical, digital face looks sleek and futuristic. This watch is programmed with tons of helpful features such as a timer, an alarm clock, a pedometer, and more to help make your excercise more productive.</p>\n<ul>\n<li>Digital display.</li>\n<li>LED backlight.</li>\n<li>Rubber strap with buckle clasp.</li>\n<li>1-year limited warranty.</li>\n</ul>"
+                },
+                {
+                    "attribute_code": "activity",
+                    "value": "16,11"
+                },
+                {
+                    "attribute_code": "material",
+                    "value": "43,45,48"
+                },
+                {
+                    "attribute_code": "gender",
+                    "value": "81"
+                },
+                {
+                    "attribute_code": "category_gear",
+                    "value": "86,87,90"
+                },
+                {
+                    "attribute_code": "new",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "sku": "24-WG03",
+            "name": "Clamber Watch",
+            "attribute_set_id": 11,
+            "price": 54,
+            "status": 1,
+            "visibility": 4,
+            "type_id": "simple",
+            "created_at": "2025-07-31 02:24:00",
+            "updated_at": "2025-07-31 02:24:00",
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [
+                    {
+                        "position": 0,
+                        "category_id": "3"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "6"
+                    }
+                ]
+            },
+            "product_links": [],
+            "options": [],
+            "media_gallery_entries": [
+                {
+                    "id": 48,
+                    "media_type": "image",
+                    "label": "Image",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail"
+                    ],
+                    "file": "/w/g/wg03-gr-0.jpg"
+                },
+                {
+                    "id": 49,
+                    "media_type": "image",
+                    "label": "Image",
+                    "position": 2,
+                    "disabled": false,
+                    "types": [],
+                    "file": "/w/g/wg03-sa-0.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "/w/g/wg03-gr-0.jpg"
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/w/g/wg03-gr-0.jpg"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/w/g/wg03-gr-0.jpg"
+                },
+                {
+                    "attribute_code": "options_container",
+                    "value": "container2"
+                },
+                {
+                    "attribute_code": "msrp_display_actual_price_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "clamber-watch"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "tax_class_id",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "3",
+                        "6"
+                    ]
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "<p>Keep track of time on the treadmill or trail with our Clamber Watch. The flexible, rubberized strap is contoured to conform to your wrist for a comfortable fit all day. The face features an illuminated digital read-out of the current time and stopwatch functions.</p>\n<ul>\n<li>Japanese quartz movement.</li>\n<li>Strap fits 5\" to 6.0\".</li>\n</ul>"
+                },
+                {
+                    "attribute_code": "activity",
+                    "value": "9,16,5,11"
+                },
+                {
+                    "attribute_code": "material",
+                    "value": "44,45,48"
+                },
+                {
+                    "attribute_code": "gender",
+                    "value": "81"
+                },
+                {
+                    "attribute_code": "category_gear",
+                    "value": "86,87,90"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "sku": "24-MG05",
+            "name": "Cruise Dual Analog Watch",
+            "attribute_set_id": 11,
+            "price": 55,
+            "status": 1,
+            "visibility": 4,
+            "type_id": "simple",
+            "created_at": "2025-07-31 02:23:59",
+            "updated_at": "2025-07-31 02:23:59",
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [
+                    {
+                        "position": 0,
+                        "category_id": "3"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "6"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "7"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "8"
+                    }
+                ]
+            },
+            "product_links": [],
+            "options": [],
+            "media_gallery_entries": [
+                {
+                    "id": 44,
+                    "media_type": "image",
+                    "label": "Image",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail"
+                    ],
+                    "file": "/m/g/mg05-br-0.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "/m/g/mg05-br-0.jpg"
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/m/g/mg05-br-0.jpg"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/m/g/mg05-br-0.jpg"
+                },
+                {
+                    "attribute_code": "options_container",
+                    "value": "container2"
+                },
+                {
+                    "attribute_code": "msrp_display_actual_price_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "cruise-dual-analog-watch"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "tax_class_id",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "3",
+                        "6",
+                        "7",
+                        "8"
+                    ]
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "<p>Whether you're traveling or wish you were, you'll never let time zones perplex you again with the Cruise Dual Analog Watch. The thick, adjustable band promises a comfortable, personalized fit to this classy, modern time piece.</p>\n<ul>\n<li>Two dials.</li>\n<li>Stainless steel case.</li>\n<li>Adjustable leather band.</li>\n</ul>"
+                },
+                {
+                    "attribute_code": "activity",
+                    "value": "9"
+                },
+                {
+                    "attribute_code": "material",
+                    "value": "35,44"
+                },
+                {
+                    "attribute_code": "gender",
+                    "value": "80"
+                },
+                {
+                    "attribute_code": "category_gear",
+                    "value": "86,88,90"
+                },
+                {
+                    "attribute_code": "new",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "sku": "24-MG04",
+            "name": "Aim Analog Watch",
+            "attribute_set_id": 11,
+            "price": 45,
+            "status": 1,
+            "visibility": 4,
+            "type_id": "simple",
+            "created_at": "2025-07-31 02:23:59",
+            "updated_at": "2025-07-31 02:23:59",
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [
+                    {
+                        "position": 0,
+                        "category_id": "3"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "6"
+                    }
+                ]
+            },
+            "product_links": [],
+            "options": [],
+            "media_gallery_entries": [
+                {
+                    "id": 41,
+                    "media_type": "image",
+                    "label": "Image",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail"
+                    ],
+                    "file": "/m/g/mg04-bk-0.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "/m/g/mg04-bk-0.jpg"
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/m/g/mg04-bk-0.jpg"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/m/g/mg04-bk-0.jpg"
+                },
+                {
+                    "attribute_code": "options_container",
+                    "value": "container2"
+                },
+                {
+                    "attribute_code": "msrp_display_actual_price_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "aim-analog-watch"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "tax_class_id",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "3",
+                        "6"
+                    ]
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "<p>Stay light-years ahead of the competition with our Aim Analog Watch. The flexible, rubberized strap is contoured to conform to the shape of your wrist for a comfortable all-day fit. The face features three illuminated hands, a digital read-out of the current time, and stopwatch functions.</p>\n<ul>\n<li>Japanese quartz movement.</li>\n<li>Strap fits 7\" to 8.0\".</li>\n</ul>"
+                },
+                {
+                    "attribute_code": "activity",
+                    "value": "9,17,5,11"
+                },
+                {
+                    "attribute_code": "material",
+                    "value": "44,45"
+                },
+                {
+                    "attribute_code": "gender",
+                    "value": "80"
+                },
+                {
+                    "attribute_code": "category_gear",
+                    "value": "86,87,90"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "sku": "24-WG085",
+            "name": "Sprite Yoga Strap 6 foot",
+            "attribute_set_id": 13,
+            "price": 14,
+            "status": 1,
+            "visibility": 1,
+            "type_id": "simple",
+            "created_at": "2025-07-31 02:23:59",
+            "updated_at": "2025-07-31 02:23:59",
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [
+                    {
+                        "position": 0,
+                        "category_id": "3"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "5"
+                    }
+                ]
+            },
+            "product_links": [
+                {
+                    "sku": "24-WG085",
+                    "link_type": "related",
+                    "linked_product_sku": "24-UG06",
+                    "linked_product_type": "simple",
+                    "position": 4
+                },
+                {
+                    "sku": "24-WG085",
+                    "link_type": "related",
+                    "linked_product_sku": "24-UG04",
+                    "linked_product_type": "simple",
+                    "position": 1
+                },
+                {
+                    "sku": "24-WG085",
+                    "link_type": "related",
+                    "linked_product_sku": "24-WG088",
+                    "linked_product_type": "simple",
+                    "position": 3
+                },
+                {
+                    "sku": "24-WG085",
+                    "link_type": "related",
+                    "linked_product_sku": "24-WG086",
+                    "linked_product_type": "simple",
+                    "position": 2
+                },
+                {
+                    "sku": "24-WG085",
+                    "link_type": "crosssell",
+                    "linked_product_sku": "24-UG06",
+                    "linked_product_type": "simple",
+                    "position": 3
+                },
+                {
+                    "sku": "24-WG085",
+                    "link_type": "crosssell",
+                    "linked_product_sku": "24-UG07",
+                    "linked_product_type": "simple",
+                    "position": 4
+                },
+                {
+                    "sku": "24-WG085",
+                    "link_type": "crosssell",
+                    "linked_product_sku": "24-WG081-gray",
+                    "linked_product_type": "simple",
+                    "position": 1
+                },
+                {
+                    "sku": "24-WG085",
+                    "link_type": "crosssell",
+                    "linked_product_sku": "24-WG085_Group",
+                    "linked_product_type": "grouped",
+                    "position": 2
+                }
+            ],
+            "options": [],
+            "media_gallery_entries": [
+                {
+                    "id": 38,
+                    "media_type": "image",
+                    "label": "Image",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail"
+                    ],
+                    "file": "/l/u/luma-yoga-strap.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "/l/u/luma-yoga-strap.jpg"
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/l/u/luma-yoga-strap.jpg"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/l/u/luma-yoga-strap.jpg"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "sprite-yoga-strap-6-foot"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "3",
+                        "5"
+                    ]
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "<p>The Sprite Yoga Strap is your untiring partner in demanding stretches, holds and alignment routines. The strap's 100% organic cotton fabric is woven tightly to form a soft, textured yet non-slip surface. The plastic clasp buckle is easily adjustable, lightweight and durable under strain.</p>\n<ul>\n<li>100% soft and durable cotton.\n<li>Plastic cinch buckle is easy to use.\n<li>Three natural colors made from phthalate and heavy metal free dyes.\n</ul>"
+                },
+                {
+                    "attribute_code": "activity",
+                    "value": "8"
+                },
+                {
+                    "attribute_code": "category_gear",
+                    "value": "87"
+                },
+                {
+                    "attribute_code": "size",
+                    "value": "94"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "sku": "24-WG09",
+            "name": "Luma Analog Watch",
+            "attribute_set_id": 11,
+            "price": 43,
+            "status": 1,
+            "visibility": 4,
+            "type_id": "simple",
+            "created_at": "2025-07-31 02:23:59",
+            "updated_at": "2025-07-31 02:23:59",
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [
+                    {
+                        "position": 0,
+                        "category_id": "3"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "6"
+                    }
+                ]
+            },
+            "product_links": [],
+            "options": [],
+            "media_gallery_entries": [
+                {
+                    "id": 46,
+                    "media_type": "image",
+                    "label": "Image",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail"
+                    ],
+                    "file": "/w/g/wg09-gr-0.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "/w/g/wg09-gr-0.jpg"
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/w/g/wg09-gr-0.jpg"
+                },
+                {
+                    "attribute_code": "special_price",
+                    "value": "43.000000"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/w/g/wg09-gr-0.jpg"
+                },
+                {
+                    "attribute_code": "special_from_date",
+                    "value": "2025-07-30 00:00:00"
+                },
+                {
+                    "attribute_code": "options_container",
+                    "value": "container2"
+                },
+                {
+                    "attribute_code": "msrp_display_actual_price_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "luma-analog-watch"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "tax_class_id",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "3",
+                        "6"
+                    ]
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "<p>Designed to stand up to your active lifestyle, this women's Luma Analog Watch features a tasteful brushed chrome finish and a stainless steel, water-resistant construction for lasting durability.</p>\n<ul>\n<li>Precision Miyota&reg; three-hand movement.</li>\n</ul>"
+                },
+                {
+                    "attribute_code": "activity",
+                    "value": "9"
+                },
+                {
+                    "attribute_code": "material",
+                    "value": "47"
+                },
+                {
+                    "attribute_code": "gender",
+                    "value": "81"
+                },
+                {
+                    "attribute_code": "category_gear",
+                    "value": "86,88,90"
+                },
+                {
+                    "attribute_code": "sale",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "sku": "24-MG03",
+            "name": "Summit Watch",
+            "attribute_set_id": 11,
+            "price": 54,
+            "status": 1,
+            "visibility": 4,
+            "type_id": "simple",
+            "created_at": "2025-07-31 02:23:59",
+            "updated_at": "2025-07-31 02:23:59",
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [
+                    {
+                        "position": 0,
+                        "category_id": "3"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "6"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "7"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "8"
+                    }
+                ]
+            },
+            "product_links": [],
+            "options": [],
+            "media_gallery_entries": [
+                {
+                    "id": 43,
+                    "media_type": "image",
+                    "label": "Image",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail"
+                    ],
+                    "file": "/m/g/mg03-br-0.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [
+                {
+                    "attribute_code": "image",
+                    "value": "/m/g/mg03-br-0.jpg"
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/m/g/mg03-br-0.jpg"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/m/g/mg03-br-0.jpg"
+                },
+                {
+                    "attribute_code": "options_container",
+                    "value": "container2"
+                },
+                {
+                    "attribute_code": "msrp_display_actual_price_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "summit-watch"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "tax_class_id",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "3",
+                        "6",
+                        "7",
+                        "8"
+                    ]
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "<p>Trek high and low in the attractive Summit Watch, which features a digital LED display with time and date, stopwatch, lap counter, and 3-second backlight. It can also calculate the number of steps taken and calories burned.</p>\n<ul>\n<li>Brushed metal case.</li>\n<li>Water resistant (100 meters).</li>\n<li>Buckle clasp.</li>\n<li>Strap fits 7\" - 10\".</li>\n<li>1-year limited warranty.</li>\n</ul>"
+                },
+                {
+                    "attribute_code": "activity",
+                    "value": "9,16,17,5,11"
+                },
+                {
+                    "attribute_code": "material",
+                    "value": "43,44,48"
+                },
+                {
+                    "attribute_code": "gender",
+                    "value": "80,81,84"
+                },
+                {
+                    "attribute_code": "category_gear",
+                    "value": "86,87,90"
+                },
+                {
+                    "attribute_code": "new",
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "search_criteria": {
+        "filter_groups": [
+            {
+                "filters": [
+                    {
+                        "field": "category_id",
+                        "value": "3",
+                        "condition_type": "eq"
+                    }
+                ]
+            }
+        ],
+        "sort_orders": [
+            {
+                "field": "created_at",
+                "direction": "DESC"
+            }
+        ],
+        "page_size": 10,
+        "current_page": 1
+    },
+    "total_count": 46
+}

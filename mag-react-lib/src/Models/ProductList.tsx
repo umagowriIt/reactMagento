@@ -4,3 +4,8 @@ export interface Product {
     description?: string;
     price: string;
 }
+
+export interface ProductListData {
+  items: Product[];
+  [key: string]: any;
+}

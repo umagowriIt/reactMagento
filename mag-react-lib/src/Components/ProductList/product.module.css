@@ -1,0 +1,27 @@
+
+
+.productList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0 18px;
+}
+
+.pagination {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.pagination > div {
+  background-color: var(--primary-color, var(--secondary-color));
+  padding: 5px 10px;
+  color: #fff;
+  cursor: pointer;
+}
+.pagination > div:hover, .pagination > div.active {
+  background: var(--primary-color-hover);
+}

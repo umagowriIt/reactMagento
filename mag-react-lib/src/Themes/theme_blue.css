@@ -1,0 +1,10 @@
+:root,
+.theme-blue {
+  --primary-color: #360997;
+  --primary-color-hover: #37c737;
+  --secondary-color: #9fb4ff;
+  --text-color: #1c0864;
+  --grey-color: #434343;
+  --background-color: #caecff;
+  --border-radius: 6px;
+}

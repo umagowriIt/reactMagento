@@ -1,18 +1,21 @@
-import React from 'react';
 
 import './App.css';
-import ProductList from './Components/ProductList/ProductList';
+import ProductList, { ProductListProps } from './Components/ProductList/ProductList';
 
 function App() {
+
+  const props : ProductListProps = {
+    theme : "blue",
+    token : "fsdfd",
+    pageSize: 10,
+    pagination : true,
+    url : "http://localhost:4000/api/products",
+    layout: "layout1"
+  }
+
   return (
     <div className="App">
-      <ProductList url="http://localhost:4000/api/products" layout="layout1" />
-
-      <br /> <br />
-      <hr />
-        <br /> <br />
-           <ProductList url="http://localhost:4000/api/products" layout="layout2" /> 
-
+      <ProductList  {...props} />
     </div>
   );
 }

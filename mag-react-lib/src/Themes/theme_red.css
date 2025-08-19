@@ -1,0 +1,10 @@
+:root,
+.theme-red {
+  --primary-color: #b31036b5;
+  --primary-color-hover: #f2bc50;
+  --secondary-color: #fff3e0;
+  --grey-color: #434343;
+  --text-color: #222;
+  --background-color: #fff;
+  --border-radius: 6px;
+}

@@ -1,38 +1,38 @@
 import { useState, useEffect } from "react";
-import axios, { AxiosResponse } from "axios";
+import { AxiosResponse } from "axios";
+import axiosInstance from "../axios/axiosInstance";
 
-export function useAxiosFetch<T = unknown>(url: string) {
+export function useAxiosFetch<T = unknown>(
+  url: string,
+  params?: Record<string, any>,
+  token?: string
+) {
   const [data, setData] = useState<T | null>(null);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    let isMounted = true;
+    if (!url) return;
+
     setLoading(true);
     setError(null);
 
-    axios
-      .get<T>(url)
+    axiosInstance
+      .get<T>(url, {
+        params,
+        headers: token
+          ? { Authorization: `Bearer ${token}` }
+          : undefined,
+      })
       .then((response: AxiosResponse<T>) => {
-        setTimeout (() => {
-          if (isMounted) {
-          setData(response.data);
-          setLoading(false);
-        }
-        }, 3000);
-        
+        setData(response.data);
+        setLoading(false);
       })
       .catch((err) => {
-        if (isMounted) {
-          setError(err.message);
-          setLoading(false);
-        }
+        setError(err.message);
+        setLoading(false);
       });
-
-    return () => {
-      isMounted = false;
-    };
-  }, [url]);
+  }, [url, JSON.stringify(params), token]);
 
   return { data, loading, error };
 }
